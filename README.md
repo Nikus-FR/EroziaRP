@@ -1,2 +1,2 @@
-# EroziaRP
-Site de EruptionPvP
+# EruptionPvP
+Le site.
